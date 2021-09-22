@@ -1,8 +1,8 @@
 # ActividadEquipo
  
-###Este repositorio contiene 3 programas
+### Este repositorio contiene 3 programas
 
-##Conversión de decimal a binario
+## Conversión de decimal a binario
 
 1. Abrir el programa
 2. Interactuar con él
@@ -10,14 +10,14 @@
 	* Introducir la cantidad de bits que se desea que posea el número binario
 3. El programa devolverá el número binario correspondiente a los datos introducidos
 
-##Conversión de binario a decimal
+## Conversión de binario a decimal
 
 1. Abrir el programa
 2. Interactuar con él
 	* Introducir el número binario que quieres convertir a decimal
 3. El programa devolverá el número decimal correspondiente a los datos introducidos
 
-##Conversión de binario a hexadecimal
+## Conversión de binario a hexadecimal
 
 1. Abrir el programa
 2. Interactuar con él
